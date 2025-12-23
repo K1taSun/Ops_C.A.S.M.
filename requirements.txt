@@ -1,0 +1,13 @@
+# UI
+PyQt6>=6.5.0
+PyQt6-Qt6>=6.5.0
+PyQt6-sip>=13.5.0
+
+# Windows
+pywin32>=305; sys_platform == 'win32'
+
+# dev
+black>=23.0.0
+mypy>=1.5.0
+pytest>=7.4.0
+pytest-qt>=4.2.0
